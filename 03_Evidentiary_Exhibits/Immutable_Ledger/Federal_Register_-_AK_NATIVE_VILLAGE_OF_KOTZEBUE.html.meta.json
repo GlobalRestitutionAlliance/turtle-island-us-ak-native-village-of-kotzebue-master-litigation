@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+KOTZEBUE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+KOTZEBUE",
+  "title": "Federal Register - AK NATIVE VILLAGE OF KOTZEBUE",
+  "fetched_at": "2026-11-23T16:17:26.543221Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 286891,
+  "sha256": "77ea556b76fb6a3e80bc6eab2297dc319e7d53b9e39a3255f44de00fe9f5b4d1",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
